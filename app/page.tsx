@@ -6,7 +6,7 @@ import Skills from "@/components/Skills";
 
 export default function Home() {
   return (
-    <main className="bg-background">
+    <main className="h-screen bg-background">
       <Landing />
       <About />
       <Skills />
